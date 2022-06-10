@@ -1,6 +1,6 @@
 let achievement = [
     {
-        "title": "We participated in hackmol 3.0 organised by DSC NITJ and were able to secure a position at top 10 teams among 250+ teams.",
+        "title": "Participated in hackmol 3.0 organised by DSC NITJ and were able to secure a position at top 10 teams among 250+ teams.",
         "link": [false, ""]
     },
     {
