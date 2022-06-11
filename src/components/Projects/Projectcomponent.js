@@ -3,7 +3,7 @@ import Badge from '../badge/Badge'
 function Projectcomponent(props) {
     return (
         <>
-            <div className='flex flex-col my-3 px-5 py-3 border'>
+            <div className='flex flex-col my-3 px-5 -z-0 bg-white/60 bg-opacity-20 backdrop-blur-lg rounded drop-shadow-lg py-3 border'>
                 <h1 className='text-lg text-black font-semibold mb'>{props.title}</h1>
                 <p>{props.desc}</p>
                 <div className='flex flex-row'>

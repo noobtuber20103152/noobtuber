@@ -18,12 +18,12 @@ function Header() {
     return (
         <>
             <ToastContainer />
-            <section class="text-gray-600 body-font rounded-lg md:sticky top-1 border bg-gray-200 m-4">
+            <section class="text-gray-600 z-10 body-font rounded-lg md:sticky bg-gray-900/10 bg-opacity-20 backdrop-blur-lg  drop-shadow-lg top-1 border  m-4">
                 <div class="container md:px-5 px-0 mx-auto flex flex-wrap">
                     <div class="flex flex-wrap">
                         <div class="p-4 lg:w-12/12 md:w-full">
-                            <div class="flex border-2 rounded-lg border-gray-200 border-opacity-50 p-0  sm:flex-row flex-col">
-                                <div class="w-16 h-16 sm:mr-8 sm:mb-0 mb-4 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 flex-shrink-0">
+                            <div class="flex rounded-lg   p-0  sm:flex-row flex-col">
+                                <div class="w-16 h-16 sm:mr-8 sm:mb-0 mb-4 inline-flex items-center justify-center rounded-full  flex-shrink-0">
                                     <img src="./images/img1.jpg" className='rounded-full' width={100} alt="" />
                                 </div>
                                 <div class="flex-grow">
