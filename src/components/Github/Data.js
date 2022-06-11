@@ -1,4 +1,6 @@
 let datapoints = [];
-let june= [9, 0, 11, 5, 7, 4, 14, 2, 4, 6, 3, 8, 6, 4]
+let may= [9, 0, 11, 3]
+datapoints=datapoints.concat(may)
+let june= [1, 1, 14, 2, 1, 4, 3, 3, 6, 6, 14]
 datapoints = datapoints.concat(june)
 export default datapoints;
