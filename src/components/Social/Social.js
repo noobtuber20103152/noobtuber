@@ -10,7 +10,6 @@ function Social() {
                             <div class="flex rounded-lg h-full px-4 flex-col">
                                 <div class="flex items-center mb-3">
                                     <h2 class="text-blue-500 text-lg title-font font-bold">Social </h2>
-
                                 </div>
                                 <div className='flex flex-row flex-wrap justify-center items-center'>
                                     <a target="_blank" href="https://www.linkedin.com/in/ujjawal-rachhoya-054297211" style={{ alignItems: 'center' }} className='hover:text-blue-500 h-11 w-11 hover:bg-blue-100  flex justify-center  rounded-full '>
