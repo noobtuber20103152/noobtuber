@@ -15,7 +15,7 @@ function Achievment() {
                                 <div className='container p-4'>
                                     {achievement.map((e) => {
                                         return <>
-                                            <AchiveComponent link={e.link[0] && e.link[1]} title={e.title} />
+                                            <AchiveComponent textblue={e.link[0]} link={e.link[0] && e.link[1]} title={e.title} />
                                         </>
                                     })}
                                     {/* <AchiveComponent title="We participated in hackmol 3.0 organised by DSC NITJ and were able to secure a position at top 10 teams among 250+ teams." />
