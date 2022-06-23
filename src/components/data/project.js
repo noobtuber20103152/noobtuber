@@ -3,7 +3,7 @@ let project = [
         "title": "Blog website",
         "desc": "It’s a blog website with user authentication, blog creation , comment section for comment on other’s blogs, separate comment page and profile page corresponding to logged in users where he/she can find blogs written by him/her. Some other functionality like top loading bar when navigate from one page to another, beautiful alert message make this website more user friendly. Built in Next JS , MongoDB use for database to store data, JWT for user authentication and tailwind CSS use for design.",
         "github": "https://github.com/noobtuber20103152/blog",
-        "livelink": [false, ""],
+        "livelink": [true, "https://blogtuber.vercel.app/"],
         "NextJS": [true, "Next JS"],
         "NodeJS": [true, "NodeJS"],
         "ReactJS": [false, "ReactJS"],
