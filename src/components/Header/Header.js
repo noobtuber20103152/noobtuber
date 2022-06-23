@@ -17,7 +17,7 @@ function Header() {
     return (
         <>
             <ToastContainer />
-            <section class="text-gray-600 z-10 body-font rounded-lg md:sticky bg-gray-900/10 bg-opacity-20 backdrop-blur-lg  drop-shadow-lg top-1 border  m-4">
+            <section class="text-gray-600 z-10 body-font rounded-lg md:sticky bg-white bg-opacity-20 backdrop-blur-lg   top-1 border  m-4">
                 <div class="container md:px-5 px-0 mx-auto flex flex-wrap">
                     <div class="flex flex-wrap">
                         <div class="p-4 lg:w-12/12 md:w-full">

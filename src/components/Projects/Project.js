@@ -4,7 +4,7 @@ import project from '../data/project'
 function Project() {
     return (
         <>
-            <section class="text-gray-600 border bg-blue-200  h-auto rounded-lg  body-font  m-4 ">
+            <section class="text-gray-600 border bg-white  h-auto rounded-lg  body-font  m-4 ">
                 <div class="container max-w-none ">
                     <div class="flex flex-wrap">
                         <div class="p-4 md:w-3/3">
